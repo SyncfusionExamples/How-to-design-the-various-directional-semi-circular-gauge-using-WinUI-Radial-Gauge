@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SemiCircularGauge (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SemiCircularGauge (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
